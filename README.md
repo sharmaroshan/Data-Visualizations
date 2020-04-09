@@ -7,4 +7,4 @@ Data Visualizations using Python Data Visualization Library is the easiest way t
 In this Tutorial, I have discussed all the Important and prominent Charts and their variations so that anybody can understand it easily. I have covered Matplotlib, seaborn, Plotly, Plotly-express, bubbly, ipywidgets. All the Tutorials are built upon JUpyter Notebooks, and the Datasets used for these Notebooks are already uploaded in a folder named **Datasets**.
 
 
-![Image description](https://www.google.com/imgres?imgurl=https%3A%2F%2Fonline.stanford.edu%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Ffigure_default%2Fpublic%2F2019-10%2Fcomputer-science-data-visualization_CS448B.jpg%3Fitok%3DJCfk6I7Q&imgrefurl=https%3A%2F%2Fonline.stanford.edu%2Fcourses%2Fcs448b-data-visualization&tbnid=hsWrXN8KTr-9LM&vet=12ahUKEwjwjOGS1troAhVCKrcAHQEsB4kQMygIegUIARCtAg..i&docid=iejFdfcWARS7nM&w=775&h=436&q=data%20visualization&ved=2ahUKEwjwjOGS1troAhVCKrcAHQEsB4kQMygIegUIARCtAg)
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
