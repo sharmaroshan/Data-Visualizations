@@ -8,3 +8,17 @@ In this Tutorial, I have discussed all the Important and prominent Charts and th
 
 
 ![alt text](https://www.boostlabs.com/wp-content/uploads/2019/09/10-types-of-data-visualization.jpg)
+
+## Contents
+* 1. Line Plots
+* 2. Bar Plots
+* 3. Pie Charts
+* 4. Scatter Charts
+* 5. Improving the Visibility of Charts
+* 6. Introduction to seaborn
+* 7. Introduction to Plotly
+* 8. Introduction to Plotly Express
+* 9. Introduction to Animated Visualizations
+* 10. Introduction to Interactive Visualizations
+
+If any doubts or suggestions, please leave a message for me on linkedin.
